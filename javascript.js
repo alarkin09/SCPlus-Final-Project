@@ -44,7 +44,7 @@ h4.innerHTML = `Visbility ${visibility}`;
 
 function retrieveCity(city) {
 let apiKey = "29a44231d6c7563fcc1740ef29d751ed";
-let apiUrl = `http://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&&units=metric`;
+let apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&&units=metric`;
 axios.get(apiUrl).then(showTemperature);
 }
 
