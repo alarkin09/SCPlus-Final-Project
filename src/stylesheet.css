@@ -46,3 +46,7 @@ p.card-text {
   font-size: 18px;
   color: #ffa62b;
 }
+p.open-source {
+  margin-top: 10px;
+  font-size: 14px;
+}
