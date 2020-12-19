@@ -1,0 +1,48 @@
+h1 {
+  font-size: 34px;
+  color: #59886b;
+  font-family: "Heebo", sans-serif;
+  margin-top: 4%;
+}
+h2 {
+  color: #bedbbb;
+  font-family: "Heebo", sans-serif;
+}
+h3 {
+  font-size: 64px;
+  color: #8db596;
+  font-family: "Heebo", sans-serif;
+}
+h3 i {
+  font-size: 75px;
+}
+
+h4 {
+  font-size: 18px;
+  color: #bedbbb;
+  font-family: "Heebo", sans-serif;
+}
+form {
+  text-align: right;
+  top: 30px;
+  left: 180px;
+}
+div.card-body {
+  font-family: "Heebo", sans-serif;
+  font-size: 18px;
+  text-align: center;
+  color: grey;
+  border: solid #ffdada 2px;
+  border-radius: 10px;
+}
+div.card-body i {
+  color: #30475e;
+  font-size: 52px;
+  margin-bottom: 20px;
+}
+p.card-text {
+  font-family: "Heebo", sans-serif;
+  text-align: center;
+  font-size: 18px;
+  color: #ffa62b;
+}
